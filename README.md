@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>SQL, Tableau Prep, Power BI.</strong>
+  💼 Ferramentas: <strong> SQL, Tableau Prep, Power BI.</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 vamos bater um papo?: ⤵️
 </p>
 
 <p align="left">
