@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="<a href="https://create.vista.com/pt/unlimited/stock-vectors/376126578/stock-vector-young-girl-is-engaged-in/">Foto A jovem está envolvida no planejamento de negócios em um laptop. O conceito de planeamento. 3D isométrico. Conceito para web design. criado por ElizaLIV</a>" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Ola eu Sou Barbara Gomes ,  <strong> Engenheira de Produção e Analista de Dados</strong>.<br>
