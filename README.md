@@ -12,8 +12,9 @@
 <p align="left">
 Um pouquinho de mim...
 Ando sempre bem humorada carrego aquela energia no 220v sabe!? 
-Amo viajar e topo os roles mais aleatorios, sou mineirinha Uai moro atualmente nos EUA, por aqui tenho praticado patinação, que por sinal é mais dificil que eu imaginava, mas é aquela velha historia cair e levantar! Sou Casada, tenho duas filhas de 4 patas que eu amo de paixão. quer saber mais? 💌 Bora conversar!: ⤵️
+Amo viajar e topo os roles mais aleatorios, sou mineirinha Uai moro atualmente nos EUA, por aqui tenho praticado patinação, que por sinal é mais dificil que eu imaginava, mas é aquela velha historia cair e levantar! Sou Casada, tenho duas filhas de 4 patas que eu amo de paixão. quer saber mais? 
 
-📫 How to reach me **barbara1902@gmail.com**
+📫 Bora conversar!:  **barbara1902@gmail.com**
 
 </p>
+
