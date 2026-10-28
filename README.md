@@ -1,6 +1,6 @@
-<img src="assets/header.svg" align="right" width="360" alt="Dados passando por uma cascata de regras até uma decisão / Data flowing through a rules waterfall into a decision">
+﻿<p align="center"><img src="assets/banner.png" alt="Bárbara Gomes — Transformo dados em decisões estratégicas. Coordenadora de Dados e BI" width="100%"></p>
 
-# Bárbara Gomes
+## Bárbara Gomes
 
 **Coordenadora de Dados e BI · Data & BI Coordinator**
 
@@ -9,9 +9,7 @@ Governed data platforms, reconciliation engines and explainable margin models on
 
 **Microsoft Fabric · Power BI · DAX · Power Query · SQL · Power Automate · Python**
 
-[LinkedIn](https://www.linkedin.com/in/barbaragomesdasilva) · [Site](https://barbarags.github.io) · [Português](#pt)
-
-<br clear="right">
+[LinkedIn](https://www.linkedin.com/in/barbaragomesdasilva) · [Site](https://barbarags.github.io) · [E-mail](mailto:bgdataanalise@gmail.com) · [Português](#pt)
 
 ---
 
